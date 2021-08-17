@@ -9,7 +9,7 @@ npm install
 npm run electron:serve
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development (Web only)
 ```
 npm run serve
 ```
