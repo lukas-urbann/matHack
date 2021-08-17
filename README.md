@@ -2,7 +2,11 @@
 
 ## Project setup
 ```
+git clone
+
 npm install
+
+npm run electron:serve
 ```
 
 ### Compiles and hot-reloads for development
